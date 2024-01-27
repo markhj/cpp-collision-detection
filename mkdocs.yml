@@ -5,3 +5,5 @@ nav:
   - Home: index.md
   - Installation:
     - With CMake: installation/install-cmake.md
+  - Misc.:
+    - Notes about the library: library/library-info.md
