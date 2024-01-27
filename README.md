@@ -1,5 +1,7 @@
 ![Project Image](https://res.cloudinary.com/drfztvfdh/image/upload/v1706348147/Github/Collision_detection_hmgqnl.jpg)
 
+[![Documentation Status](https://readthedocs.org/projects/cpp-collision-detection/badge/?version=latest)](https://cpp-collision-detection.readthedocs.io/en/latest/?badge=latest)
+
 This library provides a number of tools for **collision detection** in 2D and 3D spaces.
 
 It's a source library, which means it compiles together with your client project.
