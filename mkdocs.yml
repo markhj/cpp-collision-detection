@@ -1,0 +1,7 @@
+site_name: Collision Detection for C++
+theme:
+  name: 'material'
+nav:
+  - Home: index.md
+  - Installation:
+    - With CMake: installation/install-cmake.md
