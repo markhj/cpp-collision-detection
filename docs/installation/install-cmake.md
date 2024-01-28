@@ -4,7 +4,7 @@ It technically doesn't matter where you put it, but to keep
 things organized you can put it in a shared project or library directory.
 
 ````bash
-git clone https://github.com/markhj/collision-detection
+git clone https://github.com/markhj/cpp-collision-detection
 ````
 
 Add an environment variable readable by CMake: ``collision_detection_DIR`` which points to the location where you cloned the repo
