@@ -8,6 +8,7 @@ This library provides a number of tools for **collision detection** in 2D and 3D
 It's a source library, which means it compiles together with your client project.
 
 # Features 🌿
+
 - Easy integration with graphics, physics and game engines
 - Convex collision shapes
 - Layers and masks
@@ -15,11 +16,13 @@ It's a source library, which means it compiles together with your client project
 - Detection strategy
 
 # Upcoming features 📆
+
 - 3D support
 - Concave collision shapes
 - Refine architecture decisions
 
 # Requirements 🚦
+
 - C++ 20 or higher
 - CMake 3.2 or higher
 - GLM (OpenGL Math Library) discoverable via CMake's ``find_package``

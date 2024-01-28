@@ -15,7 +15,7 @@ include(cmake/file_list.cmake)
 
 add_executable(test
         tests/main.cpp
-        tests/2d/aabb2d_gen.cpp
+        tests/2d/aabb2d-test.cpp
         tests/2d/aabb-2d-overlapping-test.cpp
         tests/2d/shape-2d-test.cpp
         tests/misc/line-intersection-test.cpp
