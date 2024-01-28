@@ -3,7 +3,18 @@ theme:
   name: 'material'
 nav:
   - Home: index.md
-  - Installation:
-    - With CMake: installation/install-cmake.md
+  - Getting started:
+    - Installation: installation/install-cmake.md
+    - How it works: tutorials/how-it-works.md
+    - First example: tutorials/first-example.md
+  - Shapes:
+    - About shapes: shapes/shapes.md
+    - List of shapes: shapes/list-of-shapes.md
+  - Concepts:
+    - Intersections and collisions: concepts/intersections-collisions.md
+    - Pausing and resuming: concepts/group-pause-resume.md
+    - Global groups: concepts/global-groups.md
+    - Layers and masks: concepts/layers-masks.md
   - Misc.:
+    - Without partitioning: misc/without-partitioning.md
     - Notes about the library: library/library-info.md
