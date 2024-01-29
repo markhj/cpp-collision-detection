@@ -7,15 +7,15 @@ std::vector<Line_CS2D> Rect_CS2D::getLinesWithoutTransforms()
 
     return {
         // Left
-        Line_CS2D({-x, -y}, {-x, y}),
+        Line_CS2D({.a = {-x, -y}, .b = {-x, y}}),
 
         // Top
-        Line_CS2D({-x, y}, {x, y}),
+        Line_CS2D({ .a = {-x, y}, .b = {x, y}}),
 
         // Right
-        Line_CS2D({x, y}, {x, -y}),
+        Line_CS2D({ .a = {x, y}, .b = {x, -y}}),
 
         // Bottom
-        Line_CS2D({x, -y}, {-x, -y}),
+        Line_CS2D({ .a = {x, -y}, .b = {-x, -y}}),
     };
 }

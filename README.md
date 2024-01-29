@@ -26,8 +26,8 @@ Features coming in the near (or distant) future:
 # 🚦 Requirements
 To use this library you need:
 
--   C++ 20 or higher
--   CMake 3.2 or higher
+-   C++17 or higher
+-   CMake 3.26 or higher
 -   GLM (OpenGL Math Library) discoverable via CMake's ``find_package``
 
 # 📚 Documentation
